@@ -1,4 +1,4 @@
-This is a mod that adds many popular Greek foods. Mostly Greek Souvlaki but i am planning on also adding more and more as the time passes (if your request a food i can add it, if it fits in the theme).
+This is a mod that adds many popular foods and edibles.
 
 # Forge/Neoforge/Fabric:
 
