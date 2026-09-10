@@ -29,7 +29,7 @@ This is a mod that adds many popular foods and edibles.
 |-----------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | Forge     | ❌    |   ❌   |   ❌  |   ✅   |   ❌  |   ➖   |   ➖  |   ➖   |
 | Neoforge  | ➖    |   ➖   |   ➖  |   ➖   |   ❌  |   ✅   |   ❌  |   ❌   |
-| Fabric    | ❌    |   ❌   |   ❌  |   ✅   |   ❌  |   ✅   |   ❌  |   🟨   |
+| Fabric    | ❌    |   ❌   |   ❌  |   ✅   |   ❌  |   ✅   |   ❌  |   ✅   |
 | Quilt     | ❌    |   ❌   |   ❌  |   ❌   |   ❌  |   ❌   |   ❌  |   ❌   |
 
 ❌ = Not supported
